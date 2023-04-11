@@ -1,0 +1,193 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Poppins', sans-serif;
+
+}
+header{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(100675.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+header img{
+    margin-top: 25px;
+    height: 25vh;
+}
+header h1{
+    text-align: center;
+    
+}
+header p{
+    font-size: 16px;
+}
+ul{
+    list-style-type: none;
+    float: right;
+    margin-top: 25px;
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 5px 20px;
+    border: 1px solid #fff transparent;
+    transition: 0.6s ease;
+}
+ul li a:hover{
+    background-color: #fff;
+    color: black;
+}
+ul li.active a{
+    background-color: #fff;
+    color: black;
+}
+.logo img{
+    float: left;
+    width: 100px;
+    height: auto;
+    margin-top: 25px;
+    
+}
+.main{
+    max-width:1450px;
+    margin: auto;
+}
+.title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.title h1{
+    color: #fff;
+    font-size: 70px;
+
+}
+.button{
+    position: absolute;
+    top: 62%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.btn{
+    border: 1px solid #fff;
+    padding: 10px 30px ;
+    color: white;
+    text-decoration: none;
+    transition: 0.6s ease;
+}
+.btn:hover{
+    background-color: #fff;
+    color: black;
+}
+.footer{
+    width: 100%;
+    text-align: center;
+    padding: 30px 0;
+    
+    }
+    .footer h4{
+        margin-bottom: 25px;
+        margin-top: 20px;
+        font-weight: 600;
+    }
+    .icons .fa{
+        color: #f44336;
+        margin: 0 13px;
+        cursor: pointer;
+        padding: 18px 0;
+    }
+    .fa-heart{
+        color: #f44332;
+    }
+    .head1{
+        background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(sQtEFD.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    }
+    .head1 h1{
+        color: azure;
+        text-align: left;
+        padding-top: 20px;
+        margin-left: 30px;
+    }
+    .textb{
+        color: blueviolet;
+        text-align: left;
+        padding-left: 50px;
+        font-size: 20px;
+    }
+    h3{
+color: darkolivegreen;
+text-align: left;
+padding-left: 15%;
+font-size: 20px;
+    }
+    .parao{
+        text-align: left;
+        padding-left: 18%;
+        font-size: 20px;
+        color: blueviolet;
+    }
+    .head2{
+        background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(Contact-us-2.jpg);
+        height: 100vh;
+        background-size: cover;
+        background-position: center;
+    }
+    .head2 h1{
+        color: rgb(223, 123, 29);
+        text-align: center;
+        padding-top: 20px;
+        
+    }
+    header .social ul{
+        list-style-type: none;
+    float: right;
+    margin-top: 25px;
+    }
+    header .social ul li{
+        display: block;
+        padding-block: 25px;
+    }
+    header .social ul li a{
+        text-decoration: none;
+        color: white;
+        padding: 5px 20px;
+        border: 1px solid #fff transparent;
+        transition: 0.6s ease;
+    }
+    header .social ul li a:hover{
+        background-color: #fff;
+        color: rgb(119, 15, 15);
+    }
+    .f{
+background-color: blue;
+    }
+    .I{
+background-color: crimson;
+    }
+.G{
+    background-color:rgb(226, 169, 23);
+}
+.l{
+background-color: rgb(129, 185, 32);
+}
+.texta{
+    color: rgb(0, 0, 0);
+    text-align: left;
+    padding-left: 50px;
+    font-size: 20px;
+padding-top: 80px;
+}
+.fir{
+    width:5%;
+    border: dotted #eaf6f6 6px;
+    border-bottom:none; 
+    margin:50px auto 50px auto;  
+    
+}
