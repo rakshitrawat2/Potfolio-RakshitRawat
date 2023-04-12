@@ -191,3 +191,61 @@ padding-top: 80px;
     margin:50px auto 50px auto;  
     
 }
+.head3{
+    background-image:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)),url(white-abstract-background-vector-gray-abstract-modern-design-background-for-report-and-project-presentation-template-vector-illustration-graphic-futuristic-and-circular-curve-shape-concept.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.proj{
+    text-align: left;
+    margin-left: 25px;
+    
+}
+ol{
+    list-style-type: none;
+    margin-left: 30%;
+    margin-top: 155px;
+}
+ol li{
+    display: inline-block;
+    padding: 40px 40px;
+}
+.proj h1 u{
+    margin-top: 35px;
+    margin-left: 25px;
+}
+
+.textc{
+    text-align: left;
+    padding-left: 3%;
+    font-size: 20px;
+    color: blueviolet;
+}
+.textd{
+    text-align: left;
+    padding-left: 3%;
+    font-size: 20px;
+    /* color: blueviolet; */
+    margin-top: 35px;
+}
+.textf{
+    text-align: left;
+    padding-left: 3%;
+    font-size: 28px;
+    /* color: blueviolet; */
+    margin-top: 35px;
+}
+.textf1{
+    text-align: left;
+    padding-left: 3%;
+    font-size: 24px;
+    /* color: blueviolet; */
+    margin-top: 25px;
+}
+.qw{
+    text-align: center;
+    font-size: 30px;
+    color: blueviolet;
+    margin-top: 25px;
+}
